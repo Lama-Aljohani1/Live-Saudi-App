@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631684651489",
+    "project_id": "livesaudi-6a9b6",
+    "storage_bucket": "livesaudi-6a9b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631684651489:android:b53f80be285becedca1aa0",
+        "android_client_info": {
+          "package_name": "com.example.live_saudi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6tjlhxOUw4wn8FSEjpebNoLq22EQhwsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
